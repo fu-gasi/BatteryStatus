@@ -1,0 +1,13 @@
+<svg>
+  <!--   batteryLevel -->
+  <text id="batterylevel_label" class="batterylevel-label" x="50%" y="90">Battery</text>
+  <text id="batterylevel_data" class="batterylevel-data" x="50%" y="120">{ ... }％</text>
+  
+  <!--   charge status -->
+  <text id="chargestatus_label" class="chargestatus-label"x="50%"y="150">Charge</text>
+  <text id="chargestatus_data" class="chargestatus-data"x="50%"y="180">{ ... }</text>
+  
+  <!--   charge quality -->
+  <text id="chargequality_label" class="chargequality-label"x="50%"y="210">Quality</text>
+  <text id="chargequality_data" class="chargequality-data"x="50%"y="240">Not Charging Now</text>
+</svg>

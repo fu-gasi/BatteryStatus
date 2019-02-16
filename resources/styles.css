@@ -1,0 +1,47 @@
+.batterylevel-label {
+  font-family: System-Regular;
+  fill: green;
+  text-anchor: middle;
+  text-length: 32;
+  font-size: 30;
+}
+
+.batterylevel-data {
+  font-family: System-Light;
+  fill: green;
+  text-anchor: middle;
+  text-length: 32;
+  font-size: 30;
+}
+
+.chargestatus-label {
+  font-family: System-Regular;
+  fill: yellow;
+  text-anchor: middle;
+  text-length: 32;
+  font-size: 30;
+}
+
+.chargestatus-data {
+  font-family: System-Light;
+  fill: yellow;
+  text-anchor: middle;
+  text-length: 32;
+  font-size: 30;
+}
+
+.chargequality-label {
+  font-family: System-Regular;
+  fill: white;
+  text-anchor: middle;
+  text-length: 32;
+  font-size: 30;
+}
+
+.chargequality-data{
+  font-family: System-Light;
+  fill: white;
+  text-anchor: middle;
+  text-length: 32;
+  font-size: 30;
+}
